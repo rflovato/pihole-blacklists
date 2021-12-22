@@ -5,7 +5,6 @@ api.epicgames.dev
 3games1box.com
 5games1box.com
 a10.com
-abtesting.roblox.com
 account-public-service-prod03.ol.epicgames.com
 account.ubisoft.com
 accountportal-website-prod07.ol.epicgames.com
@@ -37,21 +36,16 @@ api2.origin.com
 api3.origin.com
 api4.origin.com
 apis.rbxcdn.com
-apis.roblox.com
 apps.accounts.nintendo.com
 as32590.net
 asf.justarchi.net
 asia.wargaming.net
-assetdelivery.roblox.com
-assetgame.roblox.com
 assets.xbox.com
 astats.astats.nl
 auth-rgl-prod.ros.rockstargames.com
 auth.api.sonyentertainmentnetwork.com
 auth.riotgames.com
-auth.roblox.com
 authenticate.riotgames.com
-avatar.roblox.com
 backloggery.com
 barter.vg
 battle.net
@@ -121,7 +115,6 @@ cafe.steampowered.com
 cafesupport.steampowered.com
 catalog-public-service-prod06.ol.epicgames.com
 catalog.gamepass.com
-catalog.roblox.com
 cdkeyit.it
 cdkeyprices.com
 cdkeys.com
@@ -148,10 +141,8 @@ cheapshark.com
 chrono.gg
 cjs-cdkeys.com
 client-download.steampowered.com
-client-telemetry.roblox.com
 clientconfig.akamai.steamstatic.com
 clientconfig.rpg.riotgames.com
-clientsettingscdn.roblox.com
 cloud-2.steampowered.com
 cloud-3.steampowered.com
 cloud-4.steampowered.com
@@ -256,13 +247,11 @@ download3.epicgames.com
 download4.epicgames.com
 downloaders.reloadedtech.com
 ea.com
-ecsv2.roblox.com
 editorial.xboxlive.com
 ekg.riotgames.com
 eneba.com
 enhancedsteam.com
 entitlement-public-service-prod08.ol.epicgames.com
-ephemeralcounters.api.roblox.com
 epicbundle.com
 epicgames-download1.akamaized.net
 epicgames.com
@@ -308,14 +297,12 @@ gamedownloads-rockstargames-com.akamaized.net
 gamedownloads.rockstargames.com
 gameforge.com
 gamegauntlets.com
-gameinternationalization.roblox.com
 gameladen.com
 gamerlifemovie.com
 gamerlifethemovie.com
 gamersfirst.com
 gamersfirst.com.cdn.cloudflare.net
 gamersgate.com
-games.roblox.com
 gamesave-manager.com
 gamesdeal.com
 gamesplanet.com
@@ -333,7 +320,6 @@ gg.deals
 goclecd.fr
 gog.com
 gogalaxy.com
-gold.roblox.com
 gql.twitch.tv
 greenlightupdates.com
 greenmangaming.com
@@ -423,10 +409,7 @@ leftfourdead.com
 leftfourdead.net
 level3.blizzard.com
 level3.ssl.blizzard.com
-lga1-128-116-126-3.roblox.com
 lightswitch-public-service-prod06.ol.epicgames.com
-lms.roblox.com
-locale.roblox.com
 login.leagueoflegends.com
 lol.secure.dyn.riotcdn.net
 lolalytics.com
@@ -451,7 +434,6 @@ messdistr1-rdr2-prod.ros.rockstargames.com
 messdistr2-rdr2-prod.ros.rockstargames.com
 metacritic.com
 metagamerscore.com
-metrics.roblox.com
 micromania.fr
 midnight-riders.com
 midnight-riders.net
@@ -522,7 +504,6 @@ portal2-thegame.com
 portal2game.net
 portal2thegame.com
 poweredbysteam.net
-premiumfeatures.roblox.com
 pressureforsteam.com
 privacy.xboxlive.com
 profile.xboxlive.com
@@ -533,7 +514,6 @@ pt.socialclub.rockstargames.com
 public-ubiservices.ubi.com
 randomsteamgame.com
 razer.com
-realtime.roblox.com
 redir.wargaming.net
 redirect.wargaming.net
 register.gamersfirst.com
@@ -544,8 +524,6 @@ repo.steamstatic.com
 rgl-prod.ros.rockstargames.com
 rimoplay.com
 riotgames.com
-roblox-api.arkoselabs.com
-roblox.com
 rockstargames.com
 rta.xboxlive.com
 ru.leagueoflegends.com
@@ -556,7 +534,6 @@ s.lolstatic.com
 s.team
 scdkey.com
 scrap.tf
-sea1-128-116-100-3.roblox.com
 secure-asset-delivery.gameforge.com
 secure.eu.playstation.com
 secure.square-enix.com
@@ -735,7 +712,6 @@ thefunkygibbon.net
 theheartofracing.org
 thewheelhaus.com
 thinkwithportals.com
-thumbnails.roblox.com
 titlehub.xboxlive.com
 tr.leagueoflegends.com
 tr.ledge.leagueoflegends.com
@@ -1054,7 +1030,6 @@ voidu.com
 wargaming.net
 watchanimeattheoffice.com
 watchdogs.ubisoft.com
-web.roblox.com
 wepc.com
 whatistheorangebox.com
 whatshouldisteam.com
@@ -1156,7 +1131,6 @@ www.pressureforsteam.com
 www.razer.com
 www.rimoplay.com
 www.riotgames.com
-www.roblox.com
 www.rockstargames.com
 www.scdkey.com
 www.sgtools.info
